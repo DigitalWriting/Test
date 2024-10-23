@@ -7,7 +7,7 @@ This is my Intro to T&T repository using GitHub Desktop and Visual Studio Code.
 - Feature 300
 
 ### Image of Jay David Bolter
-![Image of Jay David Bolter](bolter.png "Jay David Bolter")
+![Image of Jay David Bolter](assets/bolter.png "Jay David Bolter")
 
 ### Sample Links
 - [Google](http://www.google.com)
