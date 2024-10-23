@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$mycolor: #353A6D;
+$headingcolor: #000000;
+
+header {
+
+    background: $mycolor;
+
+}
+
+header a.button {
+
+    background: $headingcolor;
+
+}
+
+aside a.button {
+
+    background: $headingcolor;
+
+}
+
+#main-content h2:before {
+
+    color: #00AA00;
+
+}
+
+#main-content h1:before {
+
+    color: $headingcolor;
+
+}
+
+#main-content h3 {
+
+    color: $headingcolor;
+
+  }
+
+  #main-content h4 {
+
+    color: $headingcolor;
+
+  }
+
+  #main-content h6 {
+
+    color: $headingcolor;
+
+  }
